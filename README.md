@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @rhayssacorreaa
-- 👀 I’m interested in data analytics
-- 🌱 I’m persuing a degree in data science and artificial intelligence
-- 📫 How to reach me: on my e-mail rhayssa.correasimoni@outlook.com
+B.Sc. Student of Data Science and A.I | Data, research, and R programming enthusiast.
+📫 How to reach me: on my e-mail rhayssa.correasimoni@outlook.com
